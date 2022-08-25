@@ -12,3 +12,5 @@ Used this geolocation property give Website access to the location of the user's
 # Step-by-step
 First added the HTML file with the website design in mind. Then styled it by adding background image, changing font style, padding etc.
 Then worked on the JS file.
+
+Built this app to get accustomed to work with api
