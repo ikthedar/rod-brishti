@@ -14,3 +14,4 @@ First added the HTML file with the website design in mind. Then styled it by add
 Then worked on the JS file.
 
 Built this app to get accustomed to work with api
+Learned a lot about json responses while working on this app
