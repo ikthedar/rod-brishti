@@ -17,4 +17,5 @@ Built this app to get accustomed to work with api
 Learned a lot about json responses while working on this app
 
 Can add some other features
+Search for insipiration from other weather apps
 
