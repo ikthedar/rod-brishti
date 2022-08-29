@@ -19,3 +19,4 @@ Learned a lot about json responses while working on this app
 Can add some other features
 Search for insipiration from other weather apps
 Try github repos for code
+Find open source related to this type of software
